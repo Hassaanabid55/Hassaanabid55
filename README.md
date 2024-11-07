@@ -44,7 +44,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/62500720?v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/62500720?v=4" align="center" style="width: 100; height:100" />
 </div>  
 
 
