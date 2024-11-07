@@ -96,14 +96,17 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
+<table><tr><td valign="top" width="33%">
 <img src="https://github-readme-stats.vercel.app/api?username=Hassaanabid55&show_icons=true&count_private=true&hide_border=true" align="left" />
+</td><td valign="top" width="33%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaanabid55&theme=shadow_blue&hide_border=false" align="left" />
+</td><td valign="top" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaanabid55&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="left" />
 
-</td><td valign="top" width="50%">
+---
+[![](https://visitcount.itsvg.in/api?id=Hassaanabid55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
@@ -120,7 +123,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
