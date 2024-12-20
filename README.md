@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [LookAfterMyHome App](https://github.com/LookAfterMyHome)  
+- 🔭 I’m currently working as a Network Engineer.  
   
 
 - 🌱 I’m currently learning Bug Bounty and Pen Testing ✍️✍️  
